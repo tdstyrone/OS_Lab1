@@ -2,7 +2,7 @@
 // 
 // Implementation for linked list.
 //
-// Tyrone Smith
+// Tyrone Smith + Deanté Taylor
 
 #include <stdio.h>
 #include <stdlib.h>
